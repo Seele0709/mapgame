@@ -11,10 +11,10 @@ public class MapData {
 
     private static final String mapImageFiles[] = {
         "png/SPACE.png",
-        "png/WALL.png",
+        "png/WALLb.png",
         "png/Key.png",
         "png/Hammer.png",
-        "png/Poison.png"
+        "png/poisonnew.png"
     };
 
     private Image[] mapImages;
